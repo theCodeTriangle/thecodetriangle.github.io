@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-74112094-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -57,8 +57,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Programming is an art and is awesome."
-  - text: "Any fool can write a program that computer's understand , Good Programmers write Programs that Humans Understand."
+  - text: "You will never have the time, you will always have to make Time"
+  - text: "Programming is an art."
+  - text: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  - text: "The master has failed more times than the beginner has ever tried"
 
 me-img: "/img/tri-red-cloud.gif"
 
@@ -130,10 +132,6 @@ social:
     url: "https://www.facebook.com/theCodeTriangle/"
   - title: "twitter"
     url: "https://twitter.com/theCodeTriangle"
-  #- title: "github"
-  #  url: "https://github.com/theCodeTriangle/thecodetriangle.github.io"
-  #- title: "bitcoin"
-  #  url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
