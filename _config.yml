@@ -151,6 +151,7 @@ social:
 
 pages_list:
   About: 'about'
+  Videos: 'videos'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
