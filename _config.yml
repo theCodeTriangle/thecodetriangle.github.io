@@ -41,8 +41,9 @@ favicon: "/img/favicon.ico"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg1.png"
+#This gives a slight professional feel, On hold for now
+#background-img: "../img/bng-3.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,10 +57,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "No Pressure, No Diamonds"
+  - text: "Programming is an art and is awesome."
+  - text: "Any fool can write a program that computer's understand , Good Programmers write Programs that Humans Understand."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/tri-red-cloud.gif"
 
 ################
 # Web app mode #
@@ -104,16 +105,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/tri-rolling-circle-light.gif"
     date: "20th February 2016 - Today"
     description: "Reinventing My Future!"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/tri-yellow-leftcloud.gif"
     date: "26th Sept 2005 - 19th Feb 2016"
     description: "Started coding for a living"
 
 # First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/tri-yellow-rightcloud.gif"
 
 ###########
 # Contact #
