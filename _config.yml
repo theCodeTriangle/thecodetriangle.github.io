@@ -121,7 +121,7 @@ timeline-img: "/img/timeline/tri-yellow-rightcloud.gif"
 # Contact #
 ###########
 
-email: "theCodeTriangle@gmail.com"
+#Removed the email key as contact is being handled by Reach Out Contact Form Now
 
 ##################
 # Social Buttons #
